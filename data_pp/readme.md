@@ -8,7 +8,7 @@
 
 
 
--label_change_txt: 라벨 처리- 필요 없거나 추가해야 하는 라벨(.txt 파일 수정)
+- label_change_txt: 라벨 처리- 필요 없거나 추가해야 하는 라벨(.txt 파일 수정)
 
 
 

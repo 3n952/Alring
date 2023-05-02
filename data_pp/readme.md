@@ -13,3 +13,6 @@ yolov5에 학습시키기 위해 데이터를 전처리 해주었다.
 
 
 - data_ch: images디렉토리에 이미지 파일(.png, .jpg) 복사
+
+
+종합: alring_preprocessing.py

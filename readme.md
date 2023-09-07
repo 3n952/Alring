@@ -2,7 +2,7 @@
 
 1. AI HUB - 인도 보행 영상 데이터
 
-2. yolov5 + deepSort: object dectection & tracking
+2. yolov5 : object dectection 
 
 3. 객체 위험도 측정: 거리 기반 
 

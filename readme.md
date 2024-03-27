@@ -1,7 +1,7 @@
 # alring - 시각 장애인을 위한 보행 보조 시스템
 <img width="500" src="https://github.com/3n952/Alring/blob/main/assets/abstract.jpg">
 
-### Data: AI HUB - 인도 보행 영상 데이터
+### Data: AI HUB - 인도 보행 영상 데이터(https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=189)
 
 ### Model: yolov5 : object dectection 
 

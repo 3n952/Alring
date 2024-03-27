@@ -1,4 +1,2 @@
-# yolov5를 이용한 object detection
+# yolov5 모델을 사용하여 위험 객체 5개를 detection하고 픽셀 값을 기반으로 거리를 측정하여 사용자에게 알려준다.
 
-
-- data: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=189
